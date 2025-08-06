@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/DBMS
 venue: "University of Arkansas, EECS"
-date: 2014-01-01
+date:
 location: "Fayetteville, AR"
 ---
 
