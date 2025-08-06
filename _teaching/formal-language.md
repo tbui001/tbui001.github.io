@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/formal-language
 venue: "University of Arkansas, EECS"
-date:
+date: 2022
 location: "Fayetteville, AR"
 ---
 
