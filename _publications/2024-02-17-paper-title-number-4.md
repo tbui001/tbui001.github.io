@@ -7,6 +7,7 @@ excerpt: ''
 date: 2024-07-22
 venue: 'The 2024 International Conference on Security and Management'
 paperurl: 'http://tbui001.github.io/files/SAM24__Value_Embedding_Approach_in_Access_Control__Final_.pdf'
+bibtexurl: 'http://tbui001.github.io/files/10.1007_978-3-031-86637-1_28-citation.bib'
 citation: 'Bui, T.D., Panda, B. (2025). &quot;Value Embedding Approach for Access Control.&quot; <i>Security and Management and Wireless Networks. CSCE 2024 </i>. Communications in Computer and Information Science. 2254. https://doi.org/10.1007/978-3-031-86637-1_28'
 ---
 
