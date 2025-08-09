@@ -11,6 +11,6 @@ My name is Thanh Bui. I am a Ph.D. student in Computer Science at the University
 
 I love reading fiction, especially fantasy, with rich, immersive world-building and historical romance novels. I also like to spend as much time as possible with my family when I can, as they are the best thing that has happened to my life.
 
-<br/><img src='/images/Colorado-trip-2.jpg'>{: width="50%"}
+<br/><img src='/images/Colorado-trip-2.jpg' width="200"/>
 
-<br/><img src='/images/Colorado-trip.jpg'>{: width="50%"}
+<br/><img src='/images/Colorado-trip.jpg' width="200"/>
