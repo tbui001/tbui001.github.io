@@ -41,4 +41,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-[Download CV as PDF](https://tbui001.github.io/files/Thanh Bui Resume.pdf)
+[Download CV as PDF](https://tbui001.github.io/files/Thanh_Bui_Resume.pdf)
