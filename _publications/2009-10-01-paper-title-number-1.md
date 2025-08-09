@@ -6,7 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-12-04
 venue: 'Mathematics'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/mathematics-11-04910.pdf'
 bibtexurl: 'http://academicpages.github.io/files/Emotional-health.bib'
 citation: 'Bui, Thanh et.al. . (2023). &quot;Emotional Health and Climate-Change-Related Stressor Extraction from Social Media: A Case Study Using Hurricane Harvey.&quot; <i>Mathematics 1</i>. 11(24).'
