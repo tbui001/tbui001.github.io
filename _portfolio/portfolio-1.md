@@ -8,4 +8,4 @@ date: 2024-07-03
 * Built a supervised authorization model using Gradient Boosting Tree
 * Composed the result into a research paper for publication
 
-{Link to repo}[https://github.com/tbui001/Token2Vec]
+[Link to repo](https://github.com/tbui001/Token2Vec)
