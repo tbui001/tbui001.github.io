@@ -1,14 +1,12 @@
 ---
-title: "Emotional Health and Climate-Change-Related Stressor Extraction from Social Media: A Case Study Using Hurricane Harvey "
+title: "Word-embedding Approach for Unknown Attributes in Access Control Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: ''
-date: 2023-12-04
-venue: 'Mathematics'
-paperurl: 'http://tbui001.github.io/files/mathematics-11-04910.pdf'
-bibtexurl: 'http://tbui001.github.io/files/Emotional-health.bib'
-citation: 'Bui, Thanh et.al. . (2023). &quot;Emotional Health and Climate-Change-Related Stressor Extraction from Social Media: A Case Study Using Hurricane Harvey.&quot; <i>Mathematics 1</i>. 11(24).'
-
+date: 2025-05-20
+venue: 'Research Square'
+paperurl: '[http://tbui001.github.io/files/mathematics-11-04910.pdf](https://www.researchsquare.com/article/rs-6584597/v1)'
+citation: 'Bui, Thanh.  Panda, Brajendra. (2025). &quot;Word-embedding Approach for Unknown Attributes in Access Control Model.&quot; <i>PREPRINT 1</i>. available at Research Square [https://doi.org/10.21203/rs.3.rs-6584597/v1].'
 ---
-Climate change has led to a variety of disasters that have caused damage to infrastructure and the economy with societal impacts to human living. Understanding people’s emotions and stressors during disaster times will enable preparation strategies for mitigating further consequences. In this paper, we mine emotions and stressors encountered by people and shared on Twitter during Hurricane Harvey in 2017 as a showcase. In this work, we acquired a dataset of tweets from Twitter on Hurricane Harvey from 20 August 2017 to 30 August 2017. The dataset consists of around 400,000 tweets and is available on Kaggle. Next, a BERT-based model is employed to predict emotions associated with tweets posted by users. Then, natural language processing (NLP) techniques are utilized on negative-emotion tweets to explore the trends and prevalence of the topics discussed during the disaster event. Using Latent Dirichlet Allocation (LDA) topic modeling, we identified themes, enabling us to manually extract stressors termed as climate-change-related stressors. Results show that 20 climate-change-related stressors were extracted and that emotions peaked during the deadliest phase of the disaster. This indicates that tracking emotions may be a useful approach for studying environmentally determined well-being outcomes in light of understanding climate change impacts. 
+With the rapid advancements in computing and information technologies, access control models have become increasingly essential as the first line of defense. However, many traditional methods require significant human intervention. While these rule-based approaches, crafted by experienced system engineers, are highly reliable, they are also time-consuming and dependent on human resources that may not always be available. As an alternative, the attribute-based access control model provides greater flexibility in addressing the authorization needs of complex and dynamic systems. Nevertheless, many existing approaches fail to capture the contextual meaning of attribute values, as those values are typically treated as categorical data. This paper proposes modifying our Token2Vec to handle newly added tokens without additional training. Our experiments, conducted on real-world datasets, demonstrate the effectiveness of our approach by comparing it against State-of-the-Art models and evaluating its performance in evolving system scenarios. Our new approach has proved to be effective with over 93% accuracy in all scenarios where all tokens are known, and retains its performance in scenarios where a portion of the data is not presented in the training process.
