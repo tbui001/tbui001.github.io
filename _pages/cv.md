@@ -11,34 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Arkansas, 2025 (expected)
+* M.S. in Statistics and Analytics, University of Arkansas, 2018
+* B.S. and M.S. in Industrial Engineering, University of Arkansas, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar. 2021 - Aug. 2025: Research Technicians
+  * University of Arkansas - Division of Agriculture
+        * Developed an algorithm to detect Nitrogen deficiency for the corn crop based on AUS imagery
+        * Deployed a near real-time ML system for nutrient deficiency detection
+        * Collaborated on real-time ML model integration
+        * Optimized the prototype and built a package from the developed algorithm
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2021 - May. 2025: Teaching Assistant
+  * University of Arkansas
+        * Preparing and grading assignments for students
+        * Assisting students with questions regarding their assignments
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2019 - July 2020: Data Analyst
+  * Texas Tech University
+        * Performed data cleaning on collected data for the Study Abroad program
+        * Analyzed students' behavioral patterns based on their various backgrounds
+        * Constructed the statistical analysis section of the Journal submitted to Study Abroad Research in Second Language Acquisition and International Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, VBA, C++
+* Database systems: MySQL, Oracle
+* Data Science & Machine Learning: Scalable ML Solutions, Software Engineering Integration, Big Data Analysis, Feature Engineering, Model Deployment
+* Research Skills: Artificial Intelligence (AI), Machine Learning (ML), Generative AI (Gen AI), Large Language Models (LLMs), AI-Driven Automation, Statistical Modeling, Predictive Modeling, Data Analysis
 
 [Download CV as PDF](https://tbui001.github.io/files/Thanh_Bui_Resume.pdf)
