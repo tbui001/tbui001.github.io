@@ -1,6 +1,6 @@
 ---
 title: "Value Embedding Approach for Access Control"
-excerpt: ""
+excerpt: "{Link}[https://github.com/tbui001/Token2Vec]"
 collection: portfolio
 ---
 * Developed an unsupervised method of capturing and embedding users' attributes for accessing resources using skip-gram structure models
