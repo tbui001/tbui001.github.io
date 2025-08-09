@@ -6,7 +6,8 @@ permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: ''
 date: 2023-07-24
 venue: '2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE)'
-paperurl: 'http://academicpages.github.io/files/SAM23___A_Multi_model_Rouge_Nodes_Detection_System_for_Fog_Computing.pdf'
+paperurl: 'http://tbui001.github.io/files/SAM23___A_Multi_model_Rouge_Nodes_Detection_System_for_Fog_Computing.pdf'
+bibtexurl: 'http://tbui001.github.io/files/IEEE Xplore Citation BibTeX Download 2025.8.9.0.19.24.bib'
 citation: 'Bui, T.D., Panda, B. (2023). &quot; A Multi-Model Rouge Nodes Detection System for Fog Computing3.&quot; <i>2023 Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE)</i>. Las Vegas, NV, USA, 2023, pp. 2427-2434, doi: 10.1109/CSCE60160.2023.00392.'
 
 ---
